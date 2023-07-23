@@ -1,2 +1,3 @@
 0x04. AirBnB clone - Web framework
-https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step3.png
+
+![image](https://github.com/OILEGA/AirBnB_clone_v2/assets/117779858/9fe19407-c05f-48e3-a1e6-b771972209d5)
